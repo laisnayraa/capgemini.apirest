@@ -1,0 +1,14 @@
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\bin\Debug\netcoreapp2.1\APIRestClient.deps.json
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\bin\Debug\netcoreapp2.1\APIRestClient.runtimeconfig.json
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\bin\Debug\netcoreapp2.1\APIRestClient.runtimeconfig.dev.json
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\bin\Debug\netcoreapp2.1\APIRestClient.dll
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\bin\Debug\netcoreapp2.1\APIRestClient.pdb
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.csprojAssemblyReference.cache
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.csproj.CoreCompileInputs.cache
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.RazorAssemblyInfo.cache
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.RazorAssemblyInfo.cs
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.AssemblyInfoInputs.cache
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.AssemblyInfo.cs
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.RazorTargetAssemblyInfo.cache
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.dll
+C:\cursos\Curso .NET Capgemini\capgemini.apirest\APIRestClient\obj\Debug\netcoreapp2.1\APIRestClient.pdb
